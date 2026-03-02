@@ -1,4 +1,4 @@
-**optimal_k.ipynb**: "Optimal K?"
+**optimal_k.ipynb**: "Optimal K?" (Using elbow method)
 
 **pure_k_means.ipynb**: "Give me the clusters if we there were 'k' many"
 
@@ -7,4 +7,4 @@ This is a pure Python implementation of the k-means clustering algorithm. It inc
 
 The design prioritizes clarity and simplicity (quite hard given all the for loops). This means no external libraries beyond Python's built-in "math" module (except Matplotlib for plotting of course). I used Euclidean distance for clustering, handled edge cases like empty clusters, and implemented convergence detection to ensure the algorithm terminates properly.
 
-This project deepened my understanding of clustering algorithms and reinforced core Python fundamentals. Please reach out if you have any questions.
+This project deepened my understanding of clustering algorithms and reinforced core Python fundamentals. Credit to Justin Skycak's book "Introduction to Algorithms and Machine Learning" for helping me to get started. Please reach out if you have any questions.
