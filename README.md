@@ -1,6 +1,6 @@
 **optimal_k.ipynb**: "Optimal K?" (Using elbow method)
 
-**pure_k_means.ipynb**: "Give me the clusters if we there were 'k' many"
+**pure_k_means.ipynb**: "Give me the clusters if there were 'k' many"
 
 
 This is a pure Python implementation of the k-means clustering algorithm. It includes both a standard k-means function that returns k clusters, and an implementation using the elbow method to determine the optimal number of clusters. I built this to understand how unsupervised learning algorithms work at a fundamental level before relying on libraries like scikit-learn.
